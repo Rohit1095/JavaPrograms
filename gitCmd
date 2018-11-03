@@ -1,0 +1,10 @@
+My first git test.
+md gitApp
+cd gitApp
+git clone "url"
+cd JavaPrograms
+//add files
+git status
+git add .
+git commit -m "Added few files"
+git push
