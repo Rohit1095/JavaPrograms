@@ -1,6 +1,8 @@
 My first git test.
 md gitApp
 cd gitApp
+git config --global user.email "rathorerohit95@gmail.com"
+git config --global user.name "Rohit Rathore"
 git clone "url"
 cd JavaPrograms
 //add files
@@ -8,4 +10,8 @@ git status
 git add .
 git commit -m "Added few files"
 git push
+
 while pushing provide the password then it will work.
+
+This is my code please take care.
+
