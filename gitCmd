@@ -8,4 +8,4 @@ git status
 git add .
 git commit -m "Added few files"
 git push
-while pushing provide the password.
+while pushing provide the password then it will work.
